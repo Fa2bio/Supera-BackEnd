@@ -25,7 +25,6 @@
 - Spring Data JPA
 - Spring Hateoas
 - Squiggly Filter
-- Clean Architecture
 - Data Transfer Object (DTO)
 - Cross-Origin Resource Sharing (CORS)
 
